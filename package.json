@@ -10,6 +10,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository" :
+  { "type" : "git", "url" : "https://github.com/vchatterji/stanford-ner" },
   "author": "Varun Chatterji",
   "license": "GNU General Public License, version 2",
   "dependencies": {
