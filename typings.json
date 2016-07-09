@@ -1,0 +1,11 @@
+{
+  "name": "textable-nlp",
+  "dependencies": {
+    "lodash": "registry:npm/lodash#4.0.0+20160701205107",
+    "node-uuid": "registry:npm/node-uuid#1.4.7+20160503013124"
+  },
+  "globalDependencies": {
+    "natural": "registry:dt/natural#0.2.1+20160316155526",
+    "node": "registry:dt/node#6.0.0+20160621231320"
+  }
+}
